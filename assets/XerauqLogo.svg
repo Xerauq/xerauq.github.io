@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="289 301 676 478" width="676" height="478" role="img" aria-labelledby="title">
+  <title id="title">Xerauq X emblem with code symbol</title>
+  <defs>
+    <linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="756.22" y1="305.19" x2="760.87" y2="440.84">
+      <stop offset="0" stop-color="#f7f7f7" />
+      <stop offset="0.2" stop-color="#f2f2f2" />
+      <stop offset="0.4" stop-color="#e7e6e8" />
+      <stop offset="0.6" stop-color="#d9d9dc" />
+      <stop offset="0.8" stop-color="#cdcdd1" />
+      <stop offset="1" stop-color="#c7c7cc" />
+    </linearGradient>
+    <linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="823.34" y1="377.87" x2="870.75" y2="435.82">
+      <stop offset="0" stop-color="#009ef4" />
+      <stop offset="0.2" stop-color="#009ff4" />
+      <stop offset="0.4" stop-color="#00a1f3" />
+      <stop offset="0.6" stop-color="#0098e7" />
+      <stop offset="0.8" stop-color="#008bd8" />
+      <stop offset="1" stop-color="#0089d7" />
+    </linearGradient>
+    <linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="481.26" y1="306.16" x2="473.60" y2="520.88">
+      <stop offset="0" stop-color="#fbfbfb" />
+      <stop offset="0.2" stop-color="#f1f1f1" />
+      <stop offset="0.4" stop-color="#e3e2e5" />
+      <stop offset="0.6" stop-color="#d2d2d6" />
+      <stop offset="0.8" stop-color="#c7c7cb" />
+      <stop offset="1" stop-color="#c7c7cb" />
+    </linearGradient>
+    <linearGradient id="g7" gradientUnits="userSpaceOnUse" x1="746.97" y1="561.75" x2="800.73" y2="805.85">
+      <stop offset="0" stop-color="#edeced" />
+      <stop offset="0.2" stop-color="#e9e8e9" />
+      <stop offset="0.4" stop-color="#d3d3d5" />
+      <stop offset="0.6" stop-color="#bbbbc0" />
+      <stop offset="0.8" stop-color="#a7a7ad" />
+      <stop offset="1" stop-color="#9fa0a6" />
+    </linearGradient>
+    <linearGradient id="g8" gradientUnits="userSpaceOnUse" x1="376.21" y1="623.85" x2="433.12" y2="717.30">
+      <stop offset="0" stop-color="#00a1f3" />
+      <stop offset="0.2" stop-color="#009ff2" />
+      <stop offset="0.4" stop-color="#009aeb" />
+      <stop offset="0.6" stop-color="#008ddc" />
+      <stop offset="0.8" stop-color="#007fcb" />
+      <stop offset="1" stop-color="#007dc7" />
+    </linearGradient>
+    <linearGradient id="g9" gradientUnits="userSpaceOnUse" x1="485.16" y1="635.59" x2="505.37" y2="770.21">
+      <stop offset="0" stop-color="#f1f0f0" />
+      <stop offset="0.2" stop-color="#eae9ea" />
+      <stop offset="0.4" stop-color="#d7d7d9" />
+      <stop offset="0.6" stop-color="#c8c8cc" />
+      <stop offset="0.8" stop-color="#bcbcc1" />
+      <stop offset="1" stop-color="#b7b8bc" />
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M 870.39 304.65 L 771.95 304.65 L 645.81 441.35 L 746.03 441.35 Z" fill="url(#g1)" />
+    <path d="M 962.43 304.65 L 912.85 304.65 L 744.45 493.97 L 766.20 521.34 Z" fill="url(#g2)" />
+    <path d="M 291.60 305.25 L 484.91 521.28 L 521.53 476.77 L 413.62 363.35 L 468.72 363.35 L 544.01 441.04 L 610.26 441.91 L 487.96 306.40 Z" fill="url(#g3)" />
+    <path d="M 655.43 478.65 L 638.76 478.65 L 599.01 600.35 L 615.46 600.35 Z" fill="#00acfc" />
+    <path d="M 588.35 490.03 L 526.65 532.89 L 526.65 546.41 L 588.35 588.53 L 588.35 568.28 L 545.99 539.49 L 588.35 510.40 Z" fill="#00adfc" />
+    <path d="M 665.65 489.94 L 665.65 510.33 L 707.80 539.50 L 665.65 568.27 L 665.65 588.54 L 727.35 545.80 L 727.35 532.86 Z" fill="#00adfc" />
+    <path d="M 642.61 632.65 L 765.81 771.35 L 957.39 771.35 L 765.18 557.74 L 732.88 599.52 L 820.19 696.65 L 770.31 696.65 L 711.80 632.65 Z" fill="url(#g7)" />
+    <path d="M 483.34 558.60 L 293.85 773.35 L 341.09 773.35 L 505.63 585.63 Z" fill="url(#g8)" />
+    <path d="M 606.18 634.21 L 507.45 632.24 L 383.19 773.35 L 484.45 773.35 Z" fill="url(#g9)" />
+  </g>
+</svg>
